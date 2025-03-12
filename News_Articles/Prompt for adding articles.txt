@@ -1,0 +1,32 @@
+Prompt for adding articles
+
+Please help me add a new news article to the husian website. Follow these specific steps:
+
+1. Create a new article HTML file in the articles directory with this structure:
+   - Standard HTML5 document structure
+   - Header with navigation matching other pages
+   - Article content section with:
+     * Title (h2)
+     * Publication date
+     * Summary section
+     * Main content with appropriate headings (h3/h4) and formatting
+     * CTA section at the bottom
+     * "Return to News" link
+
+2. Update the news.html page by:
+   - Adding a new news-item div at the top of the appropriate year section
+   - Including the article title, summary, date, and link to the full article
+
+3. Update the index.html page by:
+   - Replacing the current Latest News article with the new one
+   - Ensuring the link points to the new article page
+
+Article details:
+- Filename: [SPECIFY FILENAME WITHOUT SPACES, e.g., "my-new-article.html"]
+- Title: [ARTICLE TITLE]
+- Publication date: [DATE IN FORMAT "12th Month 2025"]
+- Summary: [1-2 PARAGRAPH SUMMARY FOR NEWS PAGE AND HOME PAGE]
+- Content: [FULL ARTICLE TEXT WITH SECTION HEADERS, LISTS, ETC.]
+- Call to action: [OPTIONAL - SPECIFIC CTA TEXT OR LEAVE AS IS]
+
+Please follow the same formatting and structure as existing articles, ensuring all HTML elements and classes match the site's design system.
